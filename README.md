@@ -4,6 +4,24 @@ Repositório para armazenar os estudos e conteúdos introdutórios a linguagem `
 
 O repositório foi integrado ao meu computador e IDE `VSCode`. Dessa forma, todo o conteúdo é alterado de maneira local, assim exercitando, também minhas habilidades com o `Git` e `Github`.
 
+## Tópicos e suas respectivas pastas:
+
+> 1. Aprendendo a Sintaxe:
+
+>> - anatomia-das-classes
+>> - tipos-e-variáveis
+>> - operadores
+>> - metodos
+>> - java-doc
+>> - terminal-e-argumentos
+
+> 2. Controle de Fluxo:
+
+>> - estruturas-condicionais
+>> - estruturas-de-repetição
+>> - estruturas-excepecionais
+
+
 ## Minhas redes de contato
 
 <div align="left">
