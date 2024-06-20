@@ -6,7 +6,7 @@ O repositório foi integrado ao meu computador e IDE `VSCode`. Dessa forma, todo
 
 ## Tópicos e suas respectivas pastas:
 
-> 1. Aprendendo a Sintaxe:
+> **1. Aprendendo a Sintaxe:**
 >
 > - anatomia-das-classes
 > - tipos-e-variáveis
@@ -15,7 +15,7 @@ O repositório foi integrado ao meu computador e IDE `VSCode`. Dessa forma, todo
 > - java-doc
 > - terminal-e-argumentos
 >
-> 2. Controle de Fluxo:
+> **2. Controle de Fluxo:**
 >
 > - estruturas-condicionais
 > - estruturas-de-repetição
