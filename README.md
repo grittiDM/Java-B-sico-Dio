@@ -7,19 +7,19 @@ O repositório foi integrado ao meu computador e IDE `VSCode`. Dessa forma, todo
 ## Tópicos e suas respectivas pastas:
 
 > 1. Aprendendo a Sintaxe:
-
->> - anatomia-das-classes
->> - tipos-e-variáveis
->> - operadores
->> - metodos
->> - java-doc
->> - terminal-e-argumentos
-
+>
+> - anatomia-das-classes
+> - tipos-e-variáveis
+> - operadores
+> - metodos
+> - java-doc
+> - terminal-e-argumentos
+>
 > 2. Controle de Fluxo:
-
->> - estruturas-condicionais
->> - estruturas-de-repetição
->> - estruturas-excepecionais
+>
+> - estruturas-condicionais
+> - estruturas-de-repetição
+> - estruturas-excepecionais
 
 
 ## Minhas redes de contato
