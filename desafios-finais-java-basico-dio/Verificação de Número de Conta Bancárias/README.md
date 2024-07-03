@@ -1,18 +1,15 @@
-## Getting Started
+## Desafio
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Você está desenvolvendo um programa simples em Java para verificar se um número de conta bancária é válido. O número da conta deve ter exatamente 8 dígitos.
 
-## Folder Structure
+## Entrada
 
-The workspace contains two folders by default, where:
+- O programa solicitará ao usuário que digite o número da conta bancária.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Saida
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- O programa utilizará um bloco try-catch para verificar se o número da conta possui exatamente 8 dígitos.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Se o número da conta tiver 8 dígitos, o programa informará que é um número válido.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Se o número da conta não tiver 8 dígitos, o programa lançará uma exceção (por exemplo, ``IllegalArgumentException``) e informará que o número da conta é inválido.
